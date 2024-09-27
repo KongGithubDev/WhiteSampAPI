@@ -1,0 +1,17 @@
+{
+  "ServerOn": "True",
+  "MessageServerFalse": "",
+  "Version": "1.1",
+  "gamesizeOriginal": "-",
+  "gamesizeOriginalFix": "-",
+  "gamesizeENBLow": "-",
+  "gamesizeENBSetting": "-",
+  "gamesizeENBHigh": "-",
+  "ASIC": "999",
+  "CSC": "999",
+  "LUAC": "999",
+  "CBURLLIST": "cleocc.asi,false",
+  "FFC": "-1",
+  "UpdateWithLink": "http://141.11.159.113/launcher/LegendLauncherUpdate.tmp",
+  "LUpdateWithLink": "http://141.11.159.113/launcher/LegendUpdateFileReplace.tmp"
+}
