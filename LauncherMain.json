@@ -12,6 +12,6 @@
   "LUAC": "999",
   "CBURLLIST": "cleocc.asi,false",
   "FFC": "-1",
-  "UpdateWithLink": "http://141.11.159.113/launcher/LegendLauncherUpdate.tmp",
-  "LUpdateWithLink": "http://141.11.159.113/launcher/LegendUpdateFileReplace.tmp"
+  "UpdateWithLink": "http://141.11.159.113/launcher/LauncherUpdate.tmp",
+  "LUpdateWithLink": "http://141.11.159.113/launcher/UpdateFileReplace.tmp"
 }
